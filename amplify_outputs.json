@@ -1,0 +1,8 @@
+{
+  "version": "1",
+  "auth": {
+    "aws_region": "us-east-2",
+    "user_pool_id": "us-east-2_0H788IGtM",
+    "user_pool_client_id": "71ajmqj97cjbobocdaoqg41nhq"
+  }
+}
